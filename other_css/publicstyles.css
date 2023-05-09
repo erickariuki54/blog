@@ -1,0 +1,55 @@
+.navbar-nav li{
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 1.2em;
+}
+.line{
+    margin-top: -20px;
+}
+#Footer{
+    padding: 10px;
+    border-top: 1px solid black;
+    color: #feeeee;
+    background-color: #211f22;
+    text-align: center;
+}
+.blogpost{
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+#heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #005E90;
+}
+#heading:hover{
+    color: #0090DB;
+}
+.description{
+    color:#868686;
+    font-weight: bold;
+    margin-top: -2px;
+}
+.post{
+    font-size: 1.1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+.btn-info{
+    float: right;
+}
+.side{
+    border: 1px solid black;
+    background-color: green;
+}
+#author{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.FieldInfo{
+    color: rgb(251, 174, 44);
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 1.2em;
+}
